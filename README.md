@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Newbie<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Oscar in web-development!<br>🎲 Fun fact: I was a graphic designer</p>
+<p align="left">✨ Newbie<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Oscar in web-development!<br>🎲 Fun fact: I was a Graphic designer</p>
 
 ###
 
