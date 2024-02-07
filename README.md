@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name isYordani and I'm a Front-end dev from Russia</p>
+<p align="left">My name is Yordan and I'm a Front-end dev from Russia</p>
 
 ###
 
