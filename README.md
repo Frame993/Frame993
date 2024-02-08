@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Oscar in web-development!<br>🎲 Fun fact: I was a Graphic designer</p>
+<p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Oscar in web-development!<br>🎲 Fun fact: I was a Graphic designer</p>
 
 ###
 
