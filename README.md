@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Focus 🎯>Learner 📖>Input 📊>Significance 🤝>Achiever 🏆
+<p align="left">Focus 🎯<br>Learner 📖<br>Input 📊<br>Significance 🤝<br>Achiever 🏆</p>
 
 ###
 
