@@ -10,6 +10,18 @@
 
 ###
 
+<h2 align="left">My Gallup talents:</h2>
+
+###
+
+<p align="left">Focus 🎯>Learner 📖>Input 📊>Significance 🤝>Achiever 🏆
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
 <p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Build useful and powerful applications 🚀<br>🎲 Fun fact: A Graphic designer who fell in love with programming</p>
 
 ###
