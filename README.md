@@ -21,10 +21,10 @@
 <p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Build useful and powerful applications 🚀<br>🎲 Fun fact: A Graphic designer who fell in love with programming</p>
 
 ###
-
+{% comment %} 
 <h2 align="left">Technologies and softwares</h2>
 
-###
+### 
 
 <div align="left" margin-rigth=12>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="12" alt="html5 logo"  />
@@ -53,3 +53,4 @@
 </div>
 
 ###
+{% endcomment %} 
