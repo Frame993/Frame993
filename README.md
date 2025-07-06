@@ -21,7 +21,8 @@
 <p align="left">✨ Creating bugs since 1993<br>📚 I'm currently learning a lot of cool stuff<br>🎯 Goals: Build useful and powerful applications 🚀<br>🎲 Fun fact: A Graphic designer who fell in love with programming</p>
 
 ###
-[](
+
+<!---
 
 <h2 align="left">Technologies and softwares</h2>
 
